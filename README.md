@@ -1,4 +1,4 @@
-# Sammy's Junk - Information <img src="https://github.com/SammyGoesHowdy/sammygoeshowdy.github.io/blob/main/assets/sammybg.png" align="right" width="128" height="128"  /> 
+# Sammy's Junk - Information <img src="https://github.com/SammyGoesHowdy/SammysJunk/blob/main/Sammy%20Junk.png" align="right" width="128" height="128"  /> 
 
 This repository includes WADs, Wii U Forwarders, and Homebrew created by me.
 
